@@ -1,0 +1,10 @@
+.idea
+*.iml
+.classpath
+.settings
+.project
+/*.log
+/target
+/*-init.clj
+/resources/public/js/compiled
+out
